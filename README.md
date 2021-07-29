@@ -24,4 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-https://tedkuo10.github.io/vue-router-ex/dist/index.html
+https://tedkuo10.github.io/vue-router-ex/dist/
